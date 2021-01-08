@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+	height: auto;
+	width: 60em;
+	font-style: oblique;
+	font-family: sans-serif;
+	font-size: larger;
+}
+
+.img {
+	margin-left: 420px;
+	width: 15em;
+}
+
+.formulario {
+	text-align: center;
+	margin-left: 300px;
+	margin-right: 300px;
+}
+
+.ui-button {
+	background: DeepSkyBlue !important;
+	color: white !important;
+}
